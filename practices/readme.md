@@ -5,7 +5,7 @@ Practice Exercises
 
 	Variables - variables.py
 
-	Receiving Inputs from users - 
+	Receiving Inputs from users
 
 	Type Conversion
 
