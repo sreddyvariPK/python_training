@@ -1,11 +1,11 @@
 ```
 Practice Exercises
 
-	My First Program in Python
+	My First Program in Python - firstProgram.py
 
-	Variables
+	Variables - variables.py
 
-	Receiving Inputs from users
+	Receiving Inputs from users - 
 
 	Type Conversion
 
@@ -21,13 +21,13 @@ Practice Exercises
 
     Comparison Operators
 
-    While loops
+    While loops - while_loop.py
 
-    For Loops
+    For Loops - for_loop,py
 
-    Nested Loops
+    Nested Loops - nested_loop.py
 
-    Lists
+    Lists - lists.py
         
 
 
