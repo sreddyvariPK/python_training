@@ -1,4 +1,4 @@
-Python for Absolute Beginners Course
+Python for Beginners Course
 
 ![](media/python-absolute-beginners.jpg)
 
