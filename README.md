@@ -115,6 +115,10 @@ Python divides the operators in the following groups:
 
 **10. Lists** - Refer /practices/practices/lists.py for more exercises
 
+Lists are great to use when you want to work with many related values. They enable you to keep data together that belongs together, condense your code, and perform the same methods and operations on multiple values at once.
+
+​	Lists are used to store an ordered collection of items.
+
 ​	Lists are mutable
 
 ​	Lists Can have duplicates
@@ -127,35 +131,37 @@ Python divides the operators in the following groups:
 
 **Some of List Methods are:**
 
-append() - Adds an element at the end
+​	append() - Adds an element at the end
 
-clear() - Removes all the elements from the list
+​	clear() - Removes all the elements from the list
 
-copy() - Returns a copy of the list
+​	copy() - Returns a copy of the list
 
-count() - Returns the number of elements with the specified value
+​	count() - Returns the number of elements with the specified value
 
-extend() - add element of a list
+​	extend() - add element of a list
 
-index() - Returns the index of the first element with the specified value
+​	index() - Returns the index of the first element with the specified value
 
-insert() - adds an element at the specified position
+​	insert() - adds an element at the specified position
 
-pop() - Removes the element at the specified position
+​	pop() - Removes the element at the specified position
 
-remove() - Removes the item with the specified value
+​	remove() - Removes the item with the specified value
 
-reverse() - Reverses the order of the list
+​	reverse() - Reverses the order of the list
 
-sort() - sort the list
+​	sort() - sort the list
 
 **11.Tuples** -  Refer /practices/practices/tuples.py for more exercises
 
+Tuples are used to group together related data, such as a name, their age, and their gender etc.,.
+
 ​	Tuples are immutable
 
-​	Cannot remove, insert values to tuples
+​	Cannot remove, insert values to tuples as they are immutable
 
-​	Even though tuples are immutable, its list elements is mutable
+​	Even though tuples are immutable, its list elements is **mutable**
 
 ​	Can be access using index
 
@@ -169,7 +175,39 @@ sort() - sort the list
 
 **12.Dictionaries**
 
+A dictionary is a collection which is unordered
 
+changeable and  indexed
+
+Use curly {} braces
+
+Have key and values
+
+a dictionary key must be immutable and unique
+
+**DICTIONARY METHODS**
+
+​	clear() - Removes all the elements from the dictionary
+
+​	copy() - Returns a copy of the dictionary
+
+​	fromkeys() - Returns a dictionary with the specified key and value
+
+​	get() - Returns the value of the specified key
+
+​	items() - Returns a list containing a tuple for each key value pair
+
+​	keys() - Returns the list containing the dictionary keys
+
+​	values() - Returns the list of all the values in the dictionary
+
+​	pop() - Removes the element with specified key
+
+​	popitem() - Removes the last inserted key-value pair
+
+​	setdefault() - Returns the value of the specified key. If key doesnt exist insert the key, with the 	specified value
+
+​	update() - updates the dictionary with the specified key-value pair
 
 **13.SETS**
 
