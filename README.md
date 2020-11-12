@@ -6,17 +6,21 @@ Python for Absolute Beginners Course
 
 **Theory Concepts:**
 
-**I.About Python:** 
+**I. About Python:** 
 
 ​    Python is a widely used general-purpose, high-level programming language. It was initially designed by Guido van Rossum in 1991 and developed by Python Software Foundation. It was mainly developed for emphasis on code readability, and its syntax allows programmers to express concepts in fewer lines of code
 
 **II.PEP naming conventions:**
 
 ​    A naming convention is a convention (generally agreed scheme) for naming things. Conventions differ in their intents, which may include to: Allow useful information to be deduced from the names based on regularities.
-​    **Variable**: Use a lowercase single letter, word, or words. Separate words with underscores to improve readability. 
-​    **example**: y , variable , my_variable
-​    **Class**: Start each word with a capital letter. Do not separate words with underscores. This style is called camel case.
-​    **example**: Model , MyClass
+
+**Variable**: Use a lowercase single letter, word, or words. Separate words with underscores to improve readability. 
+
+**example**: y , variable , my_variable
+
+**Class**: Start each word with a capital letter. Do not separate words with underscores. This style is called camel case.
+
+**example**: Model , MyClass
 
 **III.Indentations:**
 	Indentation refers to the spaces at the beginning of a code line. Where in other programming languages the indentation in code is for readability only, the indentation in Python is very important. Python uses indentation to indicate a block of code.
