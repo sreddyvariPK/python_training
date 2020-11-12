@@ -2,26 +2,26 @@ Python for Beginners Course
 
 <img src="media/python-absolute-beginners.jpg" style="zoom:13%;" />
 
-**I. About Python:** 
+1. About Python:** 
 
 ​    Python is a widely used general-purpose, high-level programming language. It was initially designed by Guido van Rossum in 1991 and developed by Python Software Foundation. It was mainly developed for emphasis on code readability, and its syntax allows programmers to express concepts in fewer lines of code
 
-**II.PEP naming conventions:**
+**2.PEP naming conventions:**
 
 ​    A naming convention is a convention (generally agreed scheme) for naming things. Conventions differ in their intents, which may include to: Allow useful information to be deduced from the names based on regularities.
 
 **Variable**: Use a lowercase single letter, word, or words. Separate words with underscores to improve readability. 
 
-**example**: y , variable , my_variable
+​	**example**: y , variable , my_variable
 
 **Class**: Start each word with a capital letter. Do not separate words with underscores. This style is called camel case.
 
-**example**: Model , MyClass
+​	**example**: Model , MyClass
 
-**III.Indentations:**
+**3. Indentations:**
 	Indentation refers to the spaces at the beginning of a code line. Where in other programming languages the indentation in code is for readability only, the indentation in Python is very important. Python uses indentation to indicate a block of code.
 
-**IV.Data types and variables:**	Refer /parctices/variables.py for more exercises: 
+**4. Data types and variables:**	Refer /parctices/variables.py for more exercises: 
 
 Variables are nothing but reserved memory locations to store values. This means that when you create a variable you reserve some space in memory. Based on the data type of a variable, the interpreter allocates memory and decides what can be stored in the reserved memory.
 
@@ -35,9 +35,9 @@ Variables are nothing but reserved memory locations to store values. This means 
 
 **Dictionary**: Python's dictionaries are kind of hash table type. 
 
-**V. Receiving Inputs from users:**
+**5. Receiving Inputs from users:**
 
-**Example:** 
+​	**Example:** 
 
 ​		Name = input(“enter name: “)
 ​		Color = input(“enter favourite color: ”)
@@ -45,7 +45,7 @@ Variables are nothing but reserved memory locations to store values. This means 
 ​	**Formatted Strings:**	
 ​		msg = f'{person_name} likes {favourite_car} car'
 
-**VI. Type Conversion:**
+**6. Type Conversion:**
 
 **Example**
 
@@ -54,7 +54,9 @@ Variables are nothing but reserved memory locations to store values. This means 
 ​        age = 2020 – int(birth_year)
 ​        Print(age)
 
-**VII. Strings & String Methods:**
+**7. Strings & String Methods:**
+
+​	**Some of listed here:**
 
 ​        content = “Python for Beginners”
 ​        Print(len(content)
@@ -64,7 +66,7 @@ Variables are nothing but reserved memory locations to store values. This means 
 ​        Print(content.replace(‘Be’, ‘BE’))
 ​        Print(‘Python’ in content)
 
-**VIII. Operators:** 
+**8. Operators:** 
 
 Operators are special symbols in Python that carry out arithmetic or logical computation. The value that the operator operates on is called the operand.
 
@@ -79,19 +81,17 @@ Python divides the operators in the following groups:
 **Note**: Refer /practices/operators.py for more exercises
 
 **Comparison operators :** Comparison operators are used to compare values. It returns either True or False according to the condition.
-Note: Refer practices/operators.py for more exercises
+**Note**: Refer practices/operators.py for more exercises
 
 **Logical operators:** Logical operators are the and, or, not operators.
 
-Note: Refer /practices/operators.py for more exercises
+**Note**: Refer /practices/operators.py for more exercises
 
 ![logical](media/logical.PNG)
 
 **Assignment operators :** Assignment operators are used in Python to assign values to variables.
 
 ![assignment](media/assignment.PNG)
-
-
 
 **Identity operators:** "is" and "is not" are the identity operators in Python.
 
@@ -105,7 +105,7 @@ Note: Refer /practices/operators.py for more exercises
 
 ![bitwiseOperators](media/bitwiseOperators.PNG)
 
-**IX. Loops:**
+**9. Loops:**
 
 ​    **While loops** - Refer /practices/while_loop.py for more exercises
 
@@ -113,7 +113,34 @@ Note: Refer /practices/operators.py for more exercises
 
 ​	**Nested Loops** - Refer /practices/nested_loop.py for more exercises
 
-**X. Lists** - /practices/practices/lists.py
+**10. Lists** - Refer /practices/practices/lists.py for more exercises
+
+​	Its mutable
+​	Can have duplicates
+​	Can access using index Create using[]
+​	Can have different data types data
+​	Can compare the lists 
+
+**List Methods are:**
+append() - Adds an element at the end
+clear() - Removes all the elements from the list
+copy() - Returns a copy of the list
+count() - Returns the number of elements with the specified value
+extend() - add element of a list
+index() - Returns the index of the first element with the specified value
+insert() - adds an element at the specified position
+pop() - Removes the element at the specified position
+remove() - Removes the item with the specified value
+reverse() - Reverses the order of the list
+sort() - sort the list
+
+**11.Tuples**
+
+**12.Dictionaries**
+
+**13.SETS**
+
+
 
 
 
