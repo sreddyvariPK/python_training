@@ -116,22 +116,37 @@ Python divides the operators in the following groups:
 **10. Lists** - Refer /practices/practices/lists.py for more exercises
 
 ​	Its mutable
+
 ​	Can have duplicates
+
 ​	Can access using index Create using[]
+
 ​	Can have different data types data
+
 ​	Can compare the lists 
 
 **List Methods are:**
+
 append() - Adds an element at the end
+
 clear() - Removes all the elements from the list
+
 copy() - Returns a copy of the list
+
 count() - Returns the number of elements with the specified value
+
 extend() - add element of a list
+
 index() - Returns the index of the first element with the specified value
+
 insert() - adds an element at the specified position
+
 pop() - Removes the element at the specified position
+
 remove() - Removes the item with the specified value
+
 reverse() - Reverses the order of the list
+
 sort() - sort the list
 
 **11.Tuples**
