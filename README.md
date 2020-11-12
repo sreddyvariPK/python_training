@@ -1,6 +1,6 @@
 Python for Beginners Course
 
-![](media/python-absolute-beginners.jpg)
+<img src="media/python-absolute-beginners.jpg" style="zoom:33%;" />
 
 
 
