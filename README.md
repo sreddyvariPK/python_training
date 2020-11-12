@@ -115,17 +115,17 @@ Python divides the operators in the following groups:
 
 **10. Lists** - Refer /practices/practices/lists.py for more exercises
 
-​	Its mutable
+​	Lists are mutable
 
-​	Can have duplicates
+​	Lists Can have duplicates
 
-​	Can access using index Create using[]
+​	Lists Can access using index Create using[]
 
-​	Can have different data types data
+​	Lists Can have different data types data
 
 ​	Can compare the lists 
 
-**List Methods are:**
+**Some of List Methods are:**
 
 append() - Adds an element at the end
 
@@ -149,9 +149,27 @@ reverse() - Reverses the order of the list
 
 sort() - sort the list
 
-**11.Tuples**
+**11.Tuples** -  Refer /practices/practices/tuples.py for more exercises
+
+​	Tuples are immutable
+
+​	Cannot remove, insert values to tuples
+
+​	Even though tuples are immutable, its list elements is mutable
+
+​	Can be access using index
+
+​	Can be store any types of data
+
+​	Can unpack sequences
+
+​	It allows duplicates
+
+​	Use parentheses to create tuples
 
 **12.Dictionaries**
+
+
 
 **13.SETS**
 
