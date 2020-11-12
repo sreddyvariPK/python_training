@@ -1,10 +1,6 @@
 Python for Beginners Course
 
-<img src="media/python-absolute-beginners.jpg" style="zoom:33%;" />
-
-
-
-**Theory Concepts:**
+<img src="media/python-absolute-beginners.jpg" style="zoom:13%;" />
 
 **I. About Python:** 
 
