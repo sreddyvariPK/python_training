@@ -5,18 +5,21 @@ Python for Absolute Beginners Course
 
 
 **Theory Concepts:**
+
 **I.About Python:** 
-    Python is a widely used general-purpose, high-level programming language. It was initially designed by Guido van Rossum in 1991 and developed by Python Software Foundation. It was mainly developed for emphasis on code readability, and its syntax allows programmers to express concepts in fewer lines of code
+
+​    Python is a widely used general-purpose, high-level programming language. It was initially designed by Guido van Rossum in 1991 and developed by Python Software Foundation. It was mainly developed for emphasis on code readability, and its syntax allows programmers to express concepts in fewer lines of code
+
 **II.PEP naming conventions:**
-    A naming convention is a convention (generally agreed scheme) for naming things. Conventions differ in their intents, which may include to: Allow useful information to be deduced from the names based on regularities.
-    **Variable**: Use a lowercase single letter, word, or words. Separate words with underscores to improve readability. 
-    **example**: y , variable , my_variable
-    **Class**: Start each word with a capital letter. Do not separate words with underscores. This style is called camel case.
-    **example**: Model , MyClass
+
+​    A naming convention is a convention (generally agreed scheme) for naming things. Conventions differ in their intents, which may include to: Allow useful information to be deduced from the names based on regularities.
+​    **Variable**: Use a lowercase single letter, word, or words. Separate words with underscores to improve readability. 
+​    **example**: y , variable , my_variable
+​    **Class**: Start each word with a capital letter. Do not separate words with underscores. This style is called camel case.
+​    **example**: Model , MyClass
+
 **III.Indentations:**
 	Indentation refers to the spaces at the beginning of a code line. Where in other programming languages the indentation in code is for readability only, the indentation in Python is very important. Python uses indentation to indicate a block of code.
-
-My First Program in Python - /practices/firstProgram.py
 
 **IV.Data types and variables:**	Refer /parctices/variables.py for more exercises: 
 	Variables are nothing but reserved memory locations to store values. This means that when you create a variable you reserve some space in memory. Based on the data type of a variable, the interpreter allocates memory and decides what can be stored in the reserved memory.
